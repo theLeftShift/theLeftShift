@@ -1,8 +1,4 @@
-hi there
-
-im leftshift
-
-hows life?
+this about section is protected by Surfshark VPN.
 
 <!---
 theLeftShift/theLeftShift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
